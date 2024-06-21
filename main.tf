@@ -1,4 +1,4 @@
-#create ec2 instances
+#create ec2 instance
 
 resource "aws_instance" "web" {
   ami           = "ami-04b70fa74e45c3917"  
