@@ -1,4 +1,4 @@
-# Terraform AWS EC2 and GitHub Repository Project
+# Terraform: AWS EC2 and GitHub Repository Project
 
 ## Project Objectives
 
