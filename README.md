@@ -31,7 +31,7 @@ provider "aws" {
   region = "us-east-1"
 }
 
-# 2. Creating an AWS EC2 Instance Using Terraform
+### 2. Creating an AWS EC2 Instance Using Terraform
 I define a resource block for an AWS EC2 instance:
 
 resource "aws_instance" "web" {
